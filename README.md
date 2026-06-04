@@ -1,69 +1,28 @@
-# Hi, I'm Shreya Patro Sisinthy 👋
+<h1 align="center">Hi 👋, I'm Shreya Patro Sisinthy</h1>
+<h3 align="center">Currently building towards a career as an AI Engineer.</h3>
 
-I'm a Computer Science undergraduate passionate about turning data into decisions — currently looking for full-time roles in **Data Science & Machine Learning**.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyapatro&label=Profile%20views&color=0e75b6&style=flat" alt="shreyapatro" /> </p>
 
----
+- 🔭 I’m currently working on **Building AI-powered projects and working my way towards becoming an AI Engineer. Every project is a step closer — I'm hands-on, hungry to grow, and turning ideas into real builds.**
 
-## 🔭 I'm currently working on ...
-Building data-driven projects involving interactive dashboards, NLP pipelines, and ML models.
+- 🌱 I’m currently learning **RAG, LLMs, Prompt Engineering**
 
-## 🌱 I'm currently learning ...
-Deep learning architectures and advanced NLP techniques using spaCy and transformer models.
+- 👯 I’m looking to collaborate on **AI/ML projects and hackathons! If you're building something ambitious or need a teammate who brings energy and data skills to the table — let's team up.**
 
-## 👯 I'm looking to collaborate on ...
-Open source data science projects, Kaggle competitions, or anything involving real-world datasets and meaningful insights.
+- 🤝 I’m looking for help with **Keeping up with the fast-moving AI landscape, getting honest feedback and fresh ideas on my projects, and finding a community of like-minded builders who are figuring it all out together.**
 
-## 💬 Ask me about ...
-R Shiny dashboards, exploratory data analysis, sentiment analysis, or getting started with Python for data science.
+- 💬 Ask me about **Anything at the intersection of data and AI. I love a good brainstorming session — don't be shy!**
 
-## 📫 How to reach me ...
-*[your email here]* <!-- swap this out before publishing -->
+- 📫 How to reach me **shry.pat@gmail.com**
 
-## 😄 Pronouns ...
-She/Her
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shreya-patro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-patro" height="30" width="40" /></a>
+</p>
 
-## ⚡ Fun fact ...
-I built a fake product detector for Amazon listings using ML — turns out, spotting fakes in data is just as satisfying as spotting them in real life!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyapatro&show_icons=true&locale=en&layout=compact" alt="shreyapatro" /></p>
 
-## 🧰 Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Data Science & ML**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
-
-**Tools & Platforms**
-
-![R Shiny](https://img.shields.io/badge/R%20Shiny-276DC3?style=flat&logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## 📌 Featured Project
-
-### [Amazon Products Dashboard](https://github.com/shreyapatro/Amazon-Products-Dashboard)
-> Interactive analytics dashboard built with **R Shiny** — analyzes product pricing, ratings, category distribution, sentiment analysis, and fake product detection using ML.
-
----
-
-## 📊 GitHub Stats
-
-![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyapatro&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyapatro&layout=compact&hide_border=true&theme=default)
-
----
-
-*Open to full-time opportunities in Data Science & ML — let's connect!*
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyapatro&show_icons=true&locale=en" alt="shreyapatro" /></p>
